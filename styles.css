@@ -1,0 +1,28 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 32px;
+    color: darkblue;
+    text-align: center;
+}
+#heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: chocolate;
+    text-align: center;
+}
+img {
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+.wrapper {
+    border: 1px solid blue;
+    border-radius: 2px;
+    padding: 20px;
+    width: 300px;
+}
